@@ -2,6 +2,8 @@
 -- Outlet: Rajouri, Delhi
 -- Time Period: November 2025
 -- Format: Excel export
+-- Dataset: 
+ - dashboard >a hreif-"https://github.com/mathur103/Burgrill-India-sales-analysis-excel/blob/main/Burgrill_India.xlsx"> datasetview</a>
 
 # Key Fields Included
 
